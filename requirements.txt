@@ -1,0 +1,3 @@
+openstacksdk
+keystoneauth1
+python-novaclient
